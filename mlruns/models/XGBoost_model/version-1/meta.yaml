@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1748779734024
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1748779740236
+name: XGBoost_model
+run_id: 7b2f7c41cdbc4f7480a05580c894a11f
+run_link: ''
+source: file:///Users/ayamohammed/Desktop/MLOps_final_project/hand_gesture_research/mlruns/853418358486779314/7b2f7c41cdbc4f7480a05580c894a11f/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
