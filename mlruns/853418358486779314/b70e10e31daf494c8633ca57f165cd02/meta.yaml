@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayamohammed/Desktop/MLOps_final_project/hand_gesture_research/mlruns/853418358486779314/b70e10e31daf494c8633ca57f165cd02/artifacts
+end_time: 1748774902176
+entry_point_name: ''
+experiment_id: '853418358486779314'
+lifecycle_stage: active
+run_id: b70e10e31daf494c8633ca57f165cd02
+run_name: Random Forest_baseline
+run_uuid: b70e10e31daf494c8633ca57f165cd02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748774892615
+status: 3
+tags: []
+user_id: ayamohammed

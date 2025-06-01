@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ayamohammed/Desktop/MLOps_final_project/hand_gesture_research/mlruns/853418358486779314/614e73c3b3a44817852a0484bda9cc1d/artifacts
+deleted_time: 1748774974336
+end_time: 1748774892610
+entry_point_name: ''
+experiment_id: '853418358486779314'
+lifecycle_stage: deleted
+run_id: 614e73c3b3a44817852a0484bda9cc1d
+run_name: Data_Preprocessing
+run_uuid: 614e73c3b3a44817852a0484bda9cc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748774892589
+status: 3
+tags: []
+user_id: ayamohammed

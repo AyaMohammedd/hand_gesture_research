@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayamohammed/Desktop/MLOps_final_project/hand_gesture_research/mlruns/853418358486779314/7b2f7c41cdbc4f7480a05580c894a11f/artifacts
+end_time: 1748774941713
+entry_point_name: ''
+experiment_id: '853418358486779314'
+lifecycle_stage: active
+run_id: 7b2f7c41cdbc4f7480a05580c894a11f
+run_name: XGBoost_baseline
+run_uuid: 7b2f7c41cdbc4f7480a05580c894a11f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748774923961
+status: 3
+tags: []
+user_id: ayamohammed
